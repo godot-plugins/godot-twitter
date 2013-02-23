@@ -1,0 +1,21 @@
+{
+  "name": "godot-twitter",
+  "description": "Godot Plugin: Twitter Reactor",
+  "version": "0.1.0",
+  "author": "Olivier Bazoud <olivier.bazoud@gmail.com>",
+  "homepage": "https://github.com/godot-plugins/godot-twitter.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godot-plugins/godot-twitter.git"
+  },
+  "dependencies": {
+    "godot": "0.2.7",
+    "ntwitter": "0.5.0",
+    "utile": "0.1.7"
+  },
+  "main": "./lib/godot-twitter/index.js",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
+
